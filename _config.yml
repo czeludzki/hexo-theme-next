@@ -27,7 +27,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "我是房东, iOS开发, 模型"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -146,7 +146,7 @@ links_layout: block
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-#avatar: /images/avatar.gif
+avatar: /images/avatar.jpg
 
 # Table Of Contents in the Sidebar
 toc:
@@ -692,7 +692,7 @@ pace_theme: pace-theme-minimal
 canvas_nest: false
 
 # three_waves
-three_waves: true
+three_waves: false
 
 # canvas_lines
 canvas_lines: false
@@ -709,7 +709,7 @@ canvas_ribbon:
   enable: false
   size: 300
   alpha: 0.6
-  zIndex: -1
+  zIndex: 1
 
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
