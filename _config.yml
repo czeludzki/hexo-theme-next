@@ -85,7 +85,7 @@ index_with_subtitle: false
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
   home: / || home
-  iOS项目:我是房东: /categories/iOS项目-我是房东
+  iOS项目:我是房东: /2017/11/15/我是房东-项目介绍/我是房东-项目介绍
   categories: /categories/ || th
   # about: /about/ || user
   # tags: /tags/ || tags
